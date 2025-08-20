@@ -1,6 +1,0 @@
-#!bin/bash
-
-echo "this is a well calcilated work"
-echo" this good"
-
-
